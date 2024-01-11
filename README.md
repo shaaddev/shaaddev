@@ -2,7 +2,7 @@
 <h3 align="center">Experimental Developer</h3>
 
 <p align="center">
-  Aspiring software development engineer based in New York. CS Major @ <a href="https://www.mercy.edu/">Mercy University</a>
+  Aspiring software development engineer based in New York. CS Major @ <a href="https://www.mercy.edu/" target="_blank">Mercy University</a>
 </p>
 
 <!--
